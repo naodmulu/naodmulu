@@ -19,7 +19,5 @@ Full-stack software developer building mobile and backend systems in the fintech
 ### Reach me
 - 📫 [naodmulugeta1621@gmail.com]
 
-<!--
-Optional: GitHub stats widgets, e.g.
 ![Naod's GitHub stats](https://github-readme-stats.vercel.app/api?username=naodmulu&show_icons=true&theme=default)
--->
+
